@@ -11,5 +11,10 @@
 		"playerVoiceGain":8.0,
 		"avatarMinSize":0.2,
 		"avatarMaxSize":5.0
-	}
+	},
+	"worldPosters":
+	[
+		"URL1",
+		"URL2"
+	]
 }
