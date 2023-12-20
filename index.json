@@ -5,16 +5,11 @@
 		"playerStrafeSpeed":3.0,
 		"playerRunSpeed":5.0,
 		"playerJumpImpulse":4.0,
-		"playerGravityStrength":9.80,
+		"playerGravityStrength":1,
 		"playerVoiceDistanceFar":12.0,
 		"playerVoiceDistanceNear":0.8,
 		"playerVoiceGain":8.0,
 		"avatarMinSize":0.2,
 		"avatarMaxSize":5.0
-	},
-	"worldPosters":
-	[
-		"URL1",
-		"URL2"
-	]
+	}
 }
