@@ -1,11 +1,11 @@
 {
 	"worldSettingsData" : 
 	{
-		"playerWalkSpeed":8.0,
-		"playerStrafeSpeed":6.0,
-		"playerRunSpeed":12.0,
-		"playerJumpImpulse":6.0,
-		"playerGravityStrength":0.4,
+		"playerWalkSpeed":4.0,
+		"playerStrafeSpeed":3.0,
+		"playerRunSpeed":5.0,
+		"playerJumpImpulse":4.0,
+		"playerGravityStrength":1,
 		"playerVoiceDistanceFar":9.0,
 		"playerVoiceDistanceNear":0.8,
 		"playerVoiceGain":8.0,
