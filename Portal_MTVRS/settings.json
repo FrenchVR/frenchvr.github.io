@@ -1,0 +1,39 @@
+{
+  "portalwhitelist": [
+    "FurfuVR",
+    "FrenchVR",
+    "FrenchVRBot",
+    "QNode Events",
+    "TomWasUsed",
+    "Tom․exe",
+    "Mаchi Konno"
+  ],
+  "staffs": [
+    "Maitre_Tékà",
+    "Mаchi Konno",
+    "Kuroneko_Fr",
+    "Yoshix",
+    "Astreachan",
+    "gya74",
+    "KatNoire",
+    "TomWasUsed",
+    "Tom․exe"
+  ],
+  "microphone": {
+    "default": {
+      "near": 1,
+      "far": 15,
+      "gain": 10
+    },
+    "mic": {
+      "near": 20,
+      "far": 15,
+      "gain": 15
+    },
+    "nonMic": {
+      "near": 0.5,
+      "far": 10,
+      "gain": 5
+    }
+  }
+}
