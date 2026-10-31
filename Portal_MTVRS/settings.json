@@ -19,24 +19,24 @@
     "TomWasUsed",
     "Tom․exe",
     "_Jeck_",
-    "PouleZeus"
+    "PouleZeus",
     "PikaGohan"
   ],
   "microphone": {
     "default": {
-      "near": 1,
-      "far": 15,
-      "gain": 10
+      "near": 0.5,
+      "far": 8,
+      "gain": 8
     },
     "mic": {
       "near": 20,
-      "far": 15,
+      "far": 10,
       "gain": 15
     },
     "nonMic": {
       "near": 0.5,
-      "far": 10,
-      "gain": 5
+      "far": 8,
+      "gain": 4
     }
   }
 }
