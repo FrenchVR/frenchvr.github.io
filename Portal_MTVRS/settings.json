@@ -30,8 +30,8 @@
       "gain": 8
     },
     "mic": {
-      "near": 20,
-      "far": 10,
+      "near": 190,
+      "far": 200,
       "gain": 15
     },
     "nonMic": {
