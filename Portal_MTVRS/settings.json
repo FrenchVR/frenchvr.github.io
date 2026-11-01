@@ -40,8 +40,8 @@
       "gain": 8
     },
     "nonMic": {
-      "near": 0.5,
-      "far": 8,
+      "near": 10,
+      "far": 20,
       "gain": 4
     },
     "global": {
