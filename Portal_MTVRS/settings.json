@@ -32,7 +32,7 @@
     "mic": {
       "near": 190,
       "far": 200,
-      "gain": 15
+      "gain": 10
     },
     "nonMic": {
       "near": 0.5,
