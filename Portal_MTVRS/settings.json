@@ -34,14 +34,19 @@
       "gain": 8
     },
     "mic": {
-      "near": 190,
-      "far": 200,
-      "gain": 10
+      "near": 0.5,
+      "far": 8,
+      "gain": 8
     },
     "nonMic": {
       "near": 0.5,
       "far": 8,
       "gain": 4
+    },
+    "global": {
+      "near": 900,
+      "far": 1000,
+      "gain": 15
     }
   }
 }
