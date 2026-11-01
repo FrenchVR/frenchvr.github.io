@@ -23,6 +23,10 @@
     "PikaGohan",
     "ユイヒナ"
   ],
+  "VRDemoUsers": [
+    "FrenchVR1",
+    "FrenchVR2"
+  ],
   "microphone": {
     "default": {
       "near": 0.5,
